@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://CRISTOESLALUZ.NET/index.html</loc>
+    <lastmod>2020-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://CRISTOESLALUZ.NET/images/whatsapp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CRISTOESLALUZ.NET/images/face.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CRISTOESLALUZ.NET/images/livefacebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://CRISTOESLALUZ.NET/images/you.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
